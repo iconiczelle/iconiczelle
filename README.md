@@ -8,7 +8,7 @@ I'm **Gizelle Silva** also known as **zellesilva**, and I'm a **top GitHub commi
 
 ### How to reach me: 
 <a href="mailto: silvazelle47@gmail.com">
-<img src="https://img.shields.io/badge/-silvazelle47@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.zellesilva.netlify.app/"><img src="https://img.shields.io/badge/iconiczelle.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-silvazelle47@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https:/https://www.instagram.com/zelle.silva/">   <img src="https://img.shields.io/badge/@zellesilva-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.zellesilva.netlify.app/"><img src="https://img.shields.io/badge/iconiczelle.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
