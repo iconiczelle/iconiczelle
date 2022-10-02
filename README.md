@@ -8,14 +8,14 @@ I'm **Gizelle Silva** also known as **zellesilva**, and I'm a **top GitHub commi
 
 ### How to reach me: 
 <a href="mailto: silvazelle47@gmail.com">
-<img src="https://img.shields.io/badge/-silvazelle47@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https:/https://www.instagram.com/zelle.silva/">   <img src="https://img.shields.io/badge/@zellesilva-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.zellesilva.netlify.app/"><img src="https://img.shields.io/badge/iconiczelle.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-silvazelle47@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https:/https://www.instagram.com/zelle.silva/">   <img src="https://img.shields.io/badge/@zellesilva-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/zellesilva/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.zellesilva.netlify.app/"><img src="https://img.shields.io/badge/iconiczelle.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
 - 💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
-- 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
+- 👀 See my [Personal Portfolio](https://zellesilva.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
 
